@@ -4,7 +4,7 @@
 <h5 align="center">@garcilaso05</h5>
 
 ## Lenguajes y herramientas:
-[![My Skills](https://skillicons.dev/icons?i=c,java,mysql,arch,linux,bash,arduino,css,html,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,java,mysql,arch,linux,bash,arduino,css,html,git)](https://garcilaso05.github.io/portafolios/)
 
 
 
