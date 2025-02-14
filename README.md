@@ -12,3 +12,8 @@
 - 🔍 Mi portafolios: https://garcilaso05.github.io/portafolios/
 - 👾 Me encanta participar en todas las Hackatones que me propongan
 - ⚡ Me encanta tener proyectos personales y personalizar Arch
+
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/db51a382-fe10-4196-8600-4daeb1afdae2" alt="cyberkongz-kongz(2)">
+</p>
