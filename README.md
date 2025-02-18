@@ -11,7 +11,7 @@
 - 📖 Estudio en la Universitat Rovira i Virgili
 - 🔍 Mi portafolios: https://garcilaso05.github.io/portafolios/
 - 👾 Me encanta participar en todas las Hackatones que me propongan
-- ⚡ Me encanta tener proyectos personales y personalizar Arch
+- ⚡ Siempre tengo proyectos personales, entre ellos personalizar al máximo Arch
 
 
 <p align="center">
