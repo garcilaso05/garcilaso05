@@ -19,15 +19,15 @@ Outside the classroom, I'm an active member of **[CodeURV](https://codeurv.cat)*
 
 ### Skills
 
-[![Skills](https://skillicons.dev/icons?i=c,java,py,js,html,css,bash,mysql,postgres,mongodb,redis,firebase,supabase,docker,git,postman,linux,arduino)](https://garcilaso05.github.io/portafolios/)
+[![My Skills](https://skillicons.dev/icons?i=c,java,py,js,html,css,bash,mysql,postgres,mongodb,redis,firebase,supabase,docker,git,postman,linux,arduino)](https://garcilaso05.github.io/portafolios/)
 
 ---
 
 ### GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=garcilaso05&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=garcilaso05&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
+  <img height="165" src="https://streak-stats.demolab.com/?user=garcilaso05&theme=github-dark&hide_border=true" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=garcilaso05&theme=github_dark" />
 </p>
 
 ---
@@ -37,7 +37,7 @@ Outside the classroom, I'm an active member of **[CodeURV](https://codeurv.cat)*
     <img src="https://img.shields.io/badge/Full%20Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   &nbsp;
-  <a href="[https://garcilaso05.github.io/card/](https://garcilaso05.github.io/card/card-index.html)">
+  <a href="https://garcilaso05.github.io/card/">
     <img src="https://img.shields.io/badge/Interactive%20Terminal%20Card-1a1a2e?style=for-the-badge&logo=gnubash&logoColor=white" />
   </a>
 </p>
