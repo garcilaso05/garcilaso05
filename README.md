@@ -12,7 +12,7 @@ I'm a Computer Engineering student at [Universitat Rovira i Virgili](https://www
 
 Throughout my degree I've built a broad foundation across databases, networking, network security, distributed systems, web development, AI, and application design. In practice, I tend to take on **full-stack roles** in projects — designing interfaces, building backends, modelling databases, and handling data analysis end to end.
 
-Outside the classroom, I'm an active member of **[CodeURV](https://code-urv.github.io/asociacion-win95/)**, the university's computer science association, and I regularly compete in hackathons — including a few wins.
+Outside the classroom, I'm an active member of [CodeURV](https://code-urv.github.io/asociacion-win95/), the university's computer science association, and I regularly compete in hackathons — including a few wins.
 
 ---
 
